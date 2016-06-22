@@ -23,3 +23,5 @@ def duplicate_dict(lst):
  
 def duplicate_set(lst):
 	return list(set([x for x in lst]))
+
+main()
