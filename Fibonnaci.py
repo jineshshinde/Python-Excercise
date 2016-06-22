@@ -10,3 +10,5 @@ def main():
  
 def fibonacci(num):
 	return (num[-1] + num [-2])
+
+main()
