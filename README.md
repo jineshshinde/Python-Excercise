@@ -1,3 +1,3 @@
 # Python-Excercise
-Python programs
-Read me file
+Solutions of Python Excersise
+
