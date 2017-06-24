@@ -3,6 +3,7 @@ Make sure to ask the user to enter the number of numbers in the sequence to gene
 
 def main():
 	n = input("Enter fibonnaci numbers to generate: ")
+	b = 0
 	a = [1,1]
 	for i in range(n-2):
 		a.append(fibonacci(a))
